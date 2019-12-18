@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">TravelingSpot</string>
+    <string name="input_name">이름을 입력하세요.</string>
+    <string name="start">리뷰 가져오기</string>
+    <string name="recommend">추천 여행지 보기</string>
+    <string name="review">님의 리뷰입니다.</string>
+    <string name="textViewName">윤지은</string>
+    <string name="stringValue">파일이 열리지 않습니다.</string>
+
+    <string name="r_name1">그레뱅뮤지엄</string>
+    <string name="r_name2">디뮤지엄</string>
+    <string name="r_name3">루브르박물관</string>
+    <string name="r_name4">프랑스 베네치아</string>
+    <string name="r_name5">제주도 동문시장</string>
+    <string name="r_name6">필리핀 보라카이</string>
+    <string name="r_name7">베트남 다낭</string>
+    <string name="r_name8">태국 방콕</string>
+    <string name="r_name9">태국 파타야</string>
+    <string name="r_name10">은평 롯데몰</string>
+
+    <string name="r_content1">평소 박물관 좋아해서 많이 방문하는데 여기는 독특해서 좋았던 것 같아요. 남자친구랑 데이트하러 갔는데 좋은 추억 만들고 갑니다. 여러 유명 인물들을 밀랍으로 만들어 전시해놓은 박물관인데 구경하면서 밀랍으로 저렇게 정교하게 만드는 것이 가능하다는 것을 느꼈습니다. 너무 재밌는 경험이었고 아이들을 데리고 와서 교육적인 체험을 해주기에도 좋을 것 같아요!!
+</string>
+    <string name="r_content2">디뮤지엄은 항상 통통 튀는 작품들이 많아서 좋아요. 사람이 좀 많긴 하지만 기다려서 볼 만큼 가치가 있는 전시들을 많이 하는 것 같습니다. 국내 가장 큰 미술관인 만큼 작품성이 뛰어난 작품들이 많이 전시되어 미술학 적으로도 많은 공부를 하고 옵니다. 가끔 일상생활에 지치면 미술 작품 감상하면서 마음의 평온을 찾으면 좋을 것 같습니다!
+</string>
+    <string name="r_content3">제 버킷리스트 중 하나였던 루브르 박물관 가기! 프랑스 가서 가장 먼저 한 일정이 루브르 박물관 관람이었습니다. 방문하기 전 투어를 신청해서 작품들의 설명을 들었습니다. 확실히 작품들을 직접 보면서 설명을 들으니 더욱 깊게 작품을 받아들일 수 있었습니다. 혹시라도 루브르 관람을 예정하신다면 투어 예약은 필수로 하시는 것을 추천드립니다. 세계 3대 박물관인 만큼 사람이 정말 많긴 했지만 감안해야할 사항이라고 생각합니다. 박물관이 아주 커서 각 잡고 보려면 4일은 잡아야 될 것 같습니다. 저는 이틀을 봤는데 아쉬워서 더 머무르고 싶은 것을 겨우 참았습니다. 예술에 대해 문외한이더라도 루브르 박물관은 아마 꼭 가야할 세계 여행지 중 하나라고 생각합니다. 루브르 박물관에 와서 투어와 함께 책에서나 봤을 법한 작품들과 그에 얽힌 미술사를 함께 즐기다 보면 분명 인생에서 잊지 못할 기억이 될 것입니다!!!
+</string>
+    <string name="r_content4">프랑스를 여행하면서 유럽에서 손꼽히는 축제 중 하나인 니스 축제을 갔다. 총 15일동안 진행되는 축제이지만 나는 마지막 날 하루밖에 못봐서 너무 아쉬웠다. 축제는 소문대로 미쳤다. 마지막날에 모의 화형식을 한 뒤 불꽃놀이를 하는데 그 당시 사람들의 함성과 열기는 대단했다. 이래서 사람들이 축제를 찾아다니나보다. 니스 축제를 즐기면서 앞으로 여행을 하면 다양한 축제들을 경험해보는 것을 내 버킷리스트에 새로 넣었다.</string>
+    <string name="r_content5">학교 친구들과 제주도에 놀러가서 제주동문시장 갔어요! 먹을것도 많긴하지만 은근 기념품을 많이 팔더라구요. 가격은 다양했습니다. 전통 느낌의 기념품도 많아서 선물할 것들도 잔뜩 있어서 좋았습니다!</string>
+    <string name="r_content6">필리핀 여행을 갔습니다. 필리핀하면 또 빼놓을 수 없는 것이 쇼핑 인데요, 가기 전에 여러가지 쇼핑 리스트를 보고 무엇을 살지 준비해 가서 알뜰히 구매하고 왔습니다 ㅎㅎ 기념품 살 것이 정말 많았어요! 굿굿</string>
+    <string name="r_content7">다낭 여행 중 지나가다 들른 아지트샵입니다. 이곳에서 유명한 쇼핑 리스트는 거의 다 팔고 있었어요! 롯데마트 빅씨마트도 좋지만 아지트샵은 유명한 아이템들을 다 모아놨더라구요. 추천합니다! 선물로 줄 기념품 많이 샀습니다.</string>
+    <string name="r_content8">작년 겨울 갔던 태국 방콕 기념품, 미용 제품, 화장품 등등 여러가지 쇼핑 할 것들이 많았어요! 싸게 쇼핑하기 너무너무 좋습니다. 다음에 온다면 쇼핑 센터에 하루종일 살고 싶네요 돌아오는 길에 면세점 놓칠 수 없죠! 근데 생각보다 가격이 비싸서 놀랐습니다. 참고하세요</string>
+    <string name="r_content9">겨울에 태국 파타야를 다녀왔는데요, 파타야에 비씨 마트가 아주 커서 식료품도 살것이 많고 거리에도 옷을 싸게 팔더라구요. 가서 예쁜 원피스 구매 했습니다 ㅎㅎㅎ 아 그리고 엄청 큰 쇼핑 센터가 있어서 거기서 맛있는것도 많이 사먹었어요! 파타야는 생과일 음료수가 진짜 대박입니다.... 또 먹고 싶네요 진짜로</string>
+    <string name="r_content10">은평 롯데몰이 새로 생겼길래 갔습니다 ㅎㅎ 건물은 현대적인 느낌에 생각보다 큰 쇼핑몰 이더라구요. 브랜드도 다양하고 쇼핑하거나 가족끼리가서 맛있는 음식 먹고 이것저것 즐기기 좋습니다.</string>
+
+
+    <string name="result">님의 추천여행지</string>
+    <string name="back">돌아가기</string>
+
+    <string name="result_name1">가든파이브</string>
+    <string name="result_name2">경의선숲길</string>
+    <string name="result_name3">광장시장</string>
+    <string name="result_name4">63스카이아트</string>
+    <string name="result_name5">가락시장</string>
+    <string name="result_name6">고속터미널상가</string>
+    <string name="result_name7">그랜드 마트</string>
+    <string name="result_name8">서울빛초롱축제</string>
+    <string name="result_name9">경복궁</string>
+    <string name="result_name10">리틀도쿄</string>
+    <string name="result_content1">서울특별시 송파구 충민로 66 (문정동)에 있는 대형 유통 및 상업단지</string>
+    <string name="result_content2">홍대입구역 \'연트럴파크\'로 소문난 경의선 숲길</string>
+    <string name="result_content3">서울특별시 종로구 예지동 종로 5가변에 위치해있는 서울 최대 재래시장</string>
+    <string name="result_content4">서울 야경 명소, 데이트 코스로 좋은 63 빌딩 전망대</string>
+    <string name="result_content5">서울 동남권 최대의 도매시장이며 전국 각지에서 생산한 농수축산물을 유통관리하거나 경매를 담당</string>
+    <string name="result_content6">서울특별시 서초구 신반포로 194 (반포동)에 있는 고속버스 터미널. 통칭 서울경부</string>
+    <string name="result_content7">한국의 백화점 기업. 본사는 서울특별시 강남구 선릉로62길 15 (대치동)에 위치</string>
+    <string name="result_content8">매년 11월, 매해 다른 콘셉트로 청계천 일대에 오색찬란한 등(燈)을 밝히는 서울의 겨울 대표 빛축제</string>
+    <string name="result_content9">태조가 조선을 건국하고 한양 천도를 단행하면서 조선 시대에 가장 먼저 지어진 궁궐</string>
+    <string name="result_content10">옛날부터 일본인들이 많이 거주해 \'리틀 도쿄\'라고 불리는 동부 이촌동</string>
+
+</resources>
