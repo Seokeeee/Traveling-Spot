@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861525638844",
+    "firebase_url": "https://traveling-a2c04.firebaseio.com",
+    "project_id": "traveling-a2c04",
+    "storage_bucket": "traveling-a2c04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861525638844:android:e9aa1270dfd61582f9dab9",
+        "android_client_info": {
+          "package_name": "com.example.travelingspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861525638844-7okfn6uh3ckvrobb53k0sk9affb6ackv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wkdvSFN3NFQ8LfYXgIVUM6sdyYoApYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861525638844-7okfn6uh3ckvrobb53k0sk9affb6ackv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
